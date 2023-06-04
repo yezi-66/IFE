@@ -10,6 +10,9 @@
 > [Deng-Ping Fan](https://dengpingfan.github.io/), and
 > [Xin Yang](https://xy0806.github.io/).
 
+:fire: We look forward to publishing the code as soon as possible and hope that it proves to be useful in your research or applications.
+
+
 ## Description
 ### 1.1. Overview
 <p align="center">
@@ -33,6 +36,3 @@
     </em>
 </p>
 
-### 1.2. Usage
-
-We look forward to publishing the code as soon as possible and hope that it proves to be useful in your research or applications.
