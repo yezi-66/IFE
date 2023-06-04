@@ -8,7 +8,7 @@
 > Wenlong Shi,
 > Dong Ni,
 > [Deng-Ping Fan](https://dengpingfan.github.io/), and
-> Xin Yang.
+> [Xin Yang](https://xy0806.github.io/).
 
 ## Description
 ### 1.1. Overview
