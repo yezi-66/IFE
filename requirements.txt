@@ -1,0 +1,8 @@
+albumentations>=1.2.0
+apex>=0.1
+numpy==1.20.1
+scikit-image==0.17.2
+torch
+torchvision
+tensorboardx=2.0.0
+opencv-python
